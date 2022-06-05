@@ -1,4 +1,4 @@
-# Digikala landing web (Mobile)
+# Digikala landing web (Mobile) With TailwindCSS
 
 Install dependencies:
 
